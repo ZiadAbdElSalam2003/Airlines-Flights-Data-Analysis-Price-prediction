@@ -18,12 +18,8 @@ The project also includes **interactive dashboards** for insights and a **Stream
 
 ## 📂 Dataset
 
-* Source: [Kaggle – Airline Dataset](https://www.kaggle.com/)
-* Data includes information on flights: ticket price, duration, stops, and travel class.
-* Preprocessing steps:
-  • Handling missing values
-  • Encoding categorical features
-  • Feature scaling & transformations
+* Source: [Kaggle – Airline Dataset](https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data)
+* Data includes information on flights: ticket price, duration, stops, travel class etc...
 
 ---
 
@@ -49,10 +45,10 @@ We built **4 dashboards** to summarize insights:
 4. **Passenger Decision Support**
 
 📸 Screenshots:
-![Dashboard 1](assets/dashboard_overview.png)
-![Dashboard 2](assets/dashboard_price.png)
-![Dashboard 3](assets/dashboard_duration.png)
-![Dashboard 4](assets/dashboard_decision.png)
+![Dashboard 1](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/dashboard1.png)
+![Dashboard 2](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/dashboard2.png)
+![Dashboard 3](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/dashboard3.png)
+![Dashboard 4](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/dashboard4.png)
 
 ### 4. Machine Learning Models
 
@@ -68,19 +64,19 @@ We trained and compared two ML models:
 
 📸 Model Performance:
 
-* Decision Tree accuracy vs depth plot → ![DT Performance](assets/dt_performance.png)
-* LightGBM accuracy vs depth plot → ![LGBM Performance](assets/lgbm_performance.png)
+* Decision Tree accuracy vs depth plot → ![DT Performance](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/dt-performance.png)
+* LightGBM accuracy vs depth plot → ![LGBM Performance](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/LGBM-performance.png)
 
 **Final Results:**
 
-* Accuracy: ![Final Accuracy](assets/final_accuracy.png)
+* Accuracy: ![Final Accuracy](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/final-acc.png)
 * Metrics (MAE, MSE, Train R², Test R²):
 
   ```
-  MAE: X.XX
-  MSE: X.XX
-  Train R²: X.XX
-  Test R²: X.XX
+  MAE: 1601.19
+  MSE: 8386989.59
+  Train R²: 0.9862
+  Test R²: 0.9837
   ```
 
 ### 5. Deployment (Streamlit App)
@@ -89,7 +85,7 @@ To make predictions accessible to users, we deployed a simple **Streamlit web ap
 Users can input flight details and instantly get predicted ticket prices.
 
 📸 App Screenshot:
-![Streamlit App](assets/streamlit_app.png)
+![Streamlit App](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/streamlit-app.png)
 
 ---
 
@@ -104,7 +100,7 @@ Users can input flight details and instantly get predicted ticket prices.
 
 ## 👥 Team Members
 
-* Zyad Mohamed Abd El-Salam
+* Ziad Mohamed Abd El-Salam (me)
 * Wafaa Galal
 * Rahaf Mohamed
 * Shaimaa Sayed
@@ -112,11 +108,6 @@ Users can input flight details and instantly get predicted ticket prices.
 
 ---
 
-## 🙏 Acknowledgments
-
-Special thanks to **Eng. Arwa Esam** for her continuous support, valuable knowledge, and guidance throughout the program.
-
----
 
 ## ⚡ Tools & Technologies
 
