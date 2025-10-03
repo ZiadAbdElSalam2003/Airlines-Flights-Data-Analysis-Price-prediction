@@ -45,6 +45,7 @@ We built **4 dashboards** to summarize insights:
 4. **Passenger Decision Support**
 
 📸 Screenshots:
+
 ![Dashboard 1](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/dashboard1.png)
 ![Dashboard 2](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/dashboard2.png)
 ![Dashboard 3](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/dashboard3.png)
