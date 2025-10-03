@@ -86,6 +86,7 @@ To make predictions accessible to users, we deployed a simple **Streamlit web ap
 Users can input flight details and instantly get predicted ticket prices.
 
 📸 App Screenshot:
+
 ![Streamlit App](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/streamlit-app.png)
 
 ---
