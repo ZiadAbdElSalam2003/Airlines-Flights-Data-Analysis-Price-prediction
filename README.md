@@ -70,7 +70,7 @@ We trained and compared two ML models:
 
 **Final Results:**
 
-* Accuracy: ![Final Accuracy](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/final-acc.png)
+* ![Final Accuracy](https://github.com/ZiadAbdElSalam2003/Airlines-Flights-Data-Analysis-Price-prediction/blob/1248d8cb2fa070308a34e865d168c83b81d2974f/assets/final-acc.png)
 * Metrics (MAE, MSE, Train R², Test R²):
 
   ```
